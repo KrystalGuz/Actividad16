@@ -1,0 +1,35 @@
+[
+     {
+          "Id": 1,
+          "OrigenX": 0,
+          "OrigenY": 100,
+          "DestinoX": 100,
+          "DestinoY": 100,
+          "Velocidad": 90,
+          "Red": 200,
+          "Green": 200,
+          "Blue": 100
+     },
+     {
+          "Id": 1,
+          "OrigenX": 0,
+          "OrigenY": 100,
+          "DestinoX": 200,
+          "DestinoY": 150,
+          "Velocidad": 90,
+          "Red": 200,
+          "Green": 60,
+          "Blue": 100
+     },
+     {
+          "Id": 1,
+          "OrigenX": 100,
+          "OrigenY": 100,
+          "DestinoX": 300,
+          "DestinoY": 0,
+          "Velocidad": 45,
+          "Red": 50,
+          "Green": 200,
+          "Blue": 100
+     }
+]
